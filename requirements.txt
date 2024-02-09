@@ -1,4 +1,4 @@
-fuzzywuzzy
+fuzzywuzzy python-Levenshtein
 flask
 tensorflow
 gunicorn
