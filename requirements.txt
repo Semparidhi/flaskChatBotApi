@@ -1,3 +1,4 @@
 fuzzywuzzy 
 flask
 tensorflow
+Gunicorn
