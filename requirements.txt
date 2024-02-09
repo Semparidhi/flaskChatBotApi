@@ -2,3 +2,4 @@ fuzzywuzzy
 Flask
 Gunicorn
 tensorflow
+pandas
