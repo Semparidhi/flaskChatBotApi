@@ -26,5 +26,4 @@ def get_medicine_description():
 
     return jsonify({'matched_name': matched_name, 'description': description, 'score': score})
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
