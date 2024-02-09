@@ -1,4 +1,4 @@
 fuzzywuzzy 
-flask
-tensorflow
+Flask
 Gunicorn
+tensorflow
